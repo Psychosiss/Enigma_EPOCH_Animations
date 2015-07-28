@@ -10,4 +10,4 @@ I have currently copied the same file structure as the Epoch_Server.pbo -
 The idea behind this is that anyone used to looking inside that file structure will easily be able to copy any future code changes etc across to this pbo that either the devs or anyone else may add at a future date whilst maintaining an unmodified epoch_server.pbo
 
 
-See Git Notes for info regarding each version
+See the GIT WIKI for info regarding each version
