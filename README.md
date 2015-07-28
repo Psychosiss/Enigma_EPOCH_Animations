@@ -15,7 +15,7 @@ See the GIT WIKI for info regarding each version.
 
 
 
-							HOW TO USE:
+										HOW TO USE:
 
 To send your animations to surrounding clients you need to make changes to how you call animations in your custom script.
 
